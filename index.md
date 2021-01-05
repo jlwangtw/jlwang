@@ -23,7 +23,7 @@
 
 ## 新聞
 
-[聯合新聞網](https://udn.com/news/index)
+- [聯合新聞網](https://udn.com/news/index)
 
 ```
 # Header 1
