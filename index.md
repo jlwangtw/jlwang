@@ -1,18 +1,40 @@
 ## Welcome to Jin-Long Wang Pages
 
-### Markdown
+##R language
+```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [The R Project for Statistical Computing](https://www.r-project.org/)
+- [CRAN Mirrors](https://cran.r-project.org/mirrors.html)
 
-```markdown
-Syntax highlighted code block
+- [RStudio](https://rstudio.com/products/rstudio/)
+- [RStudio DownLoad](https://rstudio.com/products/rstudio/download/#download)
+- [RShiny](https://shiny.rstudio.com/)
 
+- [R Database](https://db.rstudio.com/)
+
+```
+
+##Python language
+```
+
+- [python](https://www.python.org/)
+- [anaconda](https://www.anaconda.com/products/individual)
+
+- The fundamental package for scientific computing with Python - [NumPy](https://numpy.org/)
+- Data analysis and manipulation tool - [pandas](https://pandas.pydata.org/)
+
+```
+##新聞
+```
+
+[聯合新聞網](https://udn.com/news/index)
+
+```
+
+```
 # Header 1
 ## Header 2
 ### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
@@ -21,7 +43,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[聯合新聞網](https://udn.com/news/index)
-
-
 
