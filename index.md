@@ -1,7 +1,6 @@
 ## Welcome to Jin-Long Wang Pages
 
-##R language
-```
+## R language
 
 - [The R Project for Statistical Computing](https://www.r-project.org/)
 - [CRAN Mirrors](https://cran.r-project.org/mirrors.html)
@@ -12,10 +11,8 @@
 
 - [R Database](https://db.rstudio.com/)
 
-```
 
-##Python language
-```
+## Python language
 
 - [python](https://www.python.org/)
 - [anaconda](https://www.anaconda.com/products/individual)
@@ -23,14 +20,10 @@
 - The fundamental package for scientific computing with Python - [NumPy](https://numpy.org/)
 - Data analysis and manipulation tool - [pandas](https://pandas.pydata.org/)
 
-```
-##新聞
-[聯合新聞網](https://udn.com/news/index)
-```
+
+## 新聞
 
 [聯合新聞網](https://udn.com/news/index)
-
-```
 
 ```
 # Header 1
