@@ -1,4 +1,4 @@
-## 歡迎到JLWang網頁
+## 歡迎到Jin-Long Wang網頁
 
 ## R language
 
