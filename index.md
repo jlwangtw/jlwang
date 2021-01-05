@@ -17,8 +17,8 @@
 - [python](https://www.python.org/)
 - [anaconda](https://www.anaconda.com/products/individual)
 
-- The fundamental package for scientific computing with Python - [NumPy](https://numpy.org/)
-- Data analysis and manipulation tool - [pandas](https://pandas.pydata.org/)
+- [NumPy](https://numpy.org/) - The fundamental package for scientific computing with Python
+- [pandas](https://pandas.pydata.org/) - Data analysis and manipulation tool
 
 
 ## 新聞
