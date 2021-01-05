@@ -1,4 +1,4 @@
-## 歡迎到Jin-Long Wang網頁
+## 歡迎到 -- Jin-Long Wang -- 網頁
 
 ## R language
 
